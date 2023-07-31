@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MySubmission</string>
+
+    <string name="image_splashscreen">image_splashscreen</string>
+    <string name="mysubmission">MYSUBMISSION\nSearch First, Enjoy Then!</string>
+
+    <string name="myname">Nitamayega</string>
+    <string name="contact">ntmygaa@gmail.com\n<a href="https://www.linkedin.com/in/nitamayega20/">linkedin.com</a></string>
+
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="detail">Detail</string>
+
+    <string name="avatar">avatar</string>
+    <string name="name">NAME</string>
+    <string name="username">username</string>
+    <string name="html_url">html_url</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="jumlah_followers">xxx</string>
+    <string name="following">FOLLOWING</string>
+    <string name="jumlah_folowing">xxx</string>
+</resources>

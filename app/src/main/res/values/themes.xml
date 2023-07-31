@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MySubmissionAndroidFundamental" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#CE5959</item>
+        <item name="colorPrimaryVariant">#89375F</item>
+        <item name="colorOnPrimary">#F3E8FF</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#1e0fbe</item>
+        <item name="colorSecondaryVariant">#BACDDB</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
